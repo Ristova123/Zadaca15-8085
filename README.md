@@ -11,7 +11,7 @@
 **Resenie:**
 
 
-![Screenshot (1)](https://github.com/slavko444/8085-Zadaca-15/blob/main/Diagram%2015.png)
+![Screenshot (1)](https://github.com/Ristova123/Zadaca15-8085/blob/main/Diagram%2015.png)
 
 Главна Програма:
 ```
@@ -42,8 +42,8 @@ STOP: MVI A,01XXXXXXb
  END 
 ```
 
- ![Screenshot (2)](https://github.com/slavko444/8085-Zadaca-15/blob/main/Code%2015.png)
- ![Screenshot (3)](https://github.com/slavko444/8085-Zadaca-15/blob/main/Code%2015.1.png)
+ ![Screenshot (2)](https://github.com/Ristova123/Zadaca15-8085/blob/main/Code%2015.png)
+ ![Screenshot (3)](https://github.com/Ristova123/Zadaca15-8085/blob/main/Code%2015.1.png)
  
 **Develop by:**
 
